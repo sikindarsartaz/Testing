@@ -1,1 +1,4 @@
-echo "this is my fiest file using webhook triger"
+echo " Welcome to jenkins world......!!!"
+hostname
+pwd
+sleep 10

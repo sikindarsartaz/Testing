@@ -1,1 +1,1 @@
-thi nis about sample
+echo "this is my first file"
